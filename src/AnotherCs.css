@@ -1,0 +1,16 @@
+.btn{
+    width:150px;
+    height:40px;
+    background-color: cornflowerblue;
+    border:none;
+    text-align: center;
+}
+
+.inputbox{
+    height:80px;
+    width:400px;
+    border:none;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    background-color: cornsilk;
+}

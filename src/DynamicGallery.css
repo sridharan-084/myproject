@@ -1,0 +1,17 @@
+
+*{
+    margin:0px;
+    padding : 0px;
+}
+
+
+/* .contain{
+   
+} */
+.imgcontainer{
+    margin: auto;
+    width: calc(100vw - 2em);
+    height: calc(100vh - 3em);
+  
+  
+}

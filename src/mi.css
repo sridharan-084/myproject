@@ -1,0 +1,20 @@
+/* .contain{
+    margin:auto
+}
+.contains{
+    height:10em;
+    margin:auto
+}
+.btnin{
+    margin:auto;
+} */
+
+
+/* now this is for the typing test application */
+.timer {
+    width : 7em;
+    height: 7em;
+    border: 5px solid red;
+    border-radius: 50%;
+  
+}

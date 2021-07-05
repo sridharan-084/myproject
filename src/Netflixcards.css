@@ -1,0 +1,66 @@
+.img{
+    width : 20em;
+    height : 200px;
+    border-top-left-radius: 2em;
+    border-top-right-radius: 2em;
+}
+.container{
+   
+    margin:auto;
+    margin-top:10em;
+    height:24em;
+    width :20em;
+    border : 1px solid lightgray;
+    border-radius: 2em;
+    display: flex;
+    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: linen;
+}
+.BTN{
+   background-color: lightpink;
+   outline: none;
+   border:none;
+   height:3em;
+   width:7em;
+   box-shadow: 0px 0px 7px mediumvioletred;
+}
+.title{
+    font-size: 1.5em;
+    text-align: center;
+}
+.original{
+    text-align: center;
+}
+.container:hover{
+    box-shadow: 0px 0px 15px lightslategray;
+    transform: scale(1.05 , 1.05);
+}
+.maincontainer{
+    margin-top: 5em;
+    background-color: rgb(180, 181, 182);
+    height: 100vh;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+/* for the get time css */
+.elements{
+    width: 400px ;
+    height : 500px;
+    margin : auto ;
+    margin-top: 5em;
+    
+    text-align: center;
+    padding-top: 10em;
+}
+.btn{
+    width : 10em;
+    height: 4em;
+    outline: none;
+    border : 5px solid gainsboro;
+    background-color: violet;
+}
